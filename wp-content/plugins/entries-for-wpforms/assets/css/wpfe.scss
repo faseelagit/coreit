@@ -1,0 +1,245 @@
+.entries-for-wpforms-submenu {
+	color: lightseagreen;
+}
+
+.entries-for-wpforms-submenu:hover {
+	color: lightgreen !important;
+}
+
+.wp-list-table .column-id {
+  width: 10%;
+}
+
+.wp-list-table .column-star {
+  width: 5%;
+}
+
+.wp-list-table .column-read {
+  width: 4%;
+}
+
+.wpfe-star:hover {
+  cursor: pointer;
+}
+
+span.wpfe-star.dashicons.dashicons-star-filled {
+	color:#ffb900;
+}
+
+.wpfe-unread:hover {
+  cursor: pointer;
+}
+
+span.wpfe-unread.dashicons.dashicons-marker {
+    width: 2px;
+    height: 2px;
+    color: silver;
+    font-size: 14px;
+    padding-top:5px;
+    color:limegreen;
+}
+
+.wpfe-read:hover {
+  cursor: pointer;
+}
+
+span.wpfe-read.dashicons.dashicons-marker {
+    width: 2px;
+    height: 2px;
+    color: silver;
+    font-size: 14px;
+    padding-top:5px;
+    color:silver;
+}
+
+
+/* The Modal (background) */
+.entries-for-wpforms-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.entries-for-wpforms-modal-content {
+  position: relative;
+  margin-left:160px;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+  color: black;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.entries-for-wpforms-modal-header {
+  padding: 2px 16px;
+  background-color: #e27730;
+  color: white;
+  a {
+  	color:white;
+  }
+}
+
+.entries-for-wpforms-modal-body {
+	* {
+	  	box-sizing: border-box;
+	}
+
+	input[type=text], select, textarea {
+	  width: 100%;
+	  padding: 12px;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  resize: vertical;
+	}
+
+	label {
+	  padding: 12px 12px 12px 0;
+	  display: inline-block;
+	}
+
+	input[type=submit] {
+	  background-color: #4CAF50;
+	  color: white;
+	  padding: 12px 20px;
+	  border: none;
+	  border-radius: 4px;
+	  cursor: pointer;
+	  float: right;
+	}
+
+	input[type=submit]:hover {
+	  background-color: #45a049;
+	}
+
+	.container {
+	  border-radius: 5px;
+	  background-color: #f2f2f2;
+	  padding: 20px;
+	}
+
+	.col-25 {
+	  float: left;
+	  width: 25%;
+	  margin-top: 6px;
+	}
+
+	.col-75 {
+	  float: left;
+	  width: 75%;
+	  margin-top: 6px;
+	}
+
+	/* Clear floats after the columns */
+	.row:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+}
+
+.entries-for-wpforms-modal-footer {
+  padding: 2px 8px;
+  background-color: #5cb85c;
+  color: white;
+}
+
+#entries-for-wpforms-review-notice {
+
+	&.entries-for-wpforms-review-notice {
+		padding: 15px 15px 15px 0;
+		background-color: #fff;
+	}
+
+	.notice-dismiss{
+
+		&:before{
+			display: none;
+		}
+	}
+
+	.entries-for-wpforms-review-thumbnail {
+		float: left;
+		text-align: center;
+		margin: 5px 20px;
+
+		img {
+			border-radius: 5px;
+			vertical-align: middle;
+		}
+	}
+
+	.entries-for-wpforms-review-text {
+		overflow: hidden;
+
+		h3 {
+			font-size: 20px;
+			margin: 0 0 5px;
+			line-height: 1.3;
+		}
+
+		p {
+			font-size: 13px;
+		}
+	}
+
+	.entries-for-wpforms-review-ul {
+		margin: 0;
+		padding: 0;
+
+		li {
+			display: inline-block;
+			margin-right: 10px;
+
+			a {
+				display: inline-block;
+				text-decoration: none;
+				position: relative;
+
+				span {
+					margin-top: 3px;
+					margin-right: 5px;
+				}
+			}
+		}
+	}
+}

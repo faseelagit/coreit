@@ -1,0 +1,4 @@
+[30-Nov-2022 15:10:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/coreiion/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

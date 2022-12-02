@@ -1,0 +1,380 @@
+# Copyright (C) 2019 Sanjeev Aryal
+# This file is distributed under the same license as the Entries For WPForms package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Entries For WPForms 1.4.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-10 06:36:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/admin/class-wpforms-list-table.php:27
+msgid "Deactivating..."
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:28
+msgid "Error!"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:29
+msgid "Success!"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:30
+msgid "Plugin Deactivated!"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:31
+msgid "Sad to see you leave!"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:32
+msgid "Oops! Something went wrong"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:33
+msgid "Email Sent Successfully!"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:34
+msgid "Sending..."
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:35
+#: includes/admin/class-wpforms-list-table.php:273
+msgid "Mark as read"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:36
+#: includes/admin/class-wpforms-list-table.php:273
+msgid "Mark as unread"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Entries For WPForms"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:72
+#: includes/admin/class-wpforms-list-table.php:125
+msgid "Entries"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:112
+#: includes/admin/functions-wpfe-admin.php:513
+#: includes/class-entries-for-wpforms-ajax.php:107
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:152
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:153
+msgid "Export CSV"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:161
+msgid "Search Entries"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:186
+msgid "wpforms_entry"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:187
+msgid "wpforms_entries"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:209
+msgid "No entries found! Check out another form."
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:216
+msgid "ID"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:222
+msgid "Entry Date"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:223
+msgid "Action"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:224
+msgid "Star"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:250
+#: includes/admin/class-wpforms-list-table.php:256
+msgid "View"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:251
+#: includes/admin/class-wpforms-list-table.php:351
+msgid "Trash"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:257
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:258
+#: includes/admin/class-wpforms-list-table.php:425
+msgid "Restore"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:300
+msgid "Details"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:302
+msgid "Send Email"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:352
+msgid "All"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:374
+#: includes/admin/class-wpforms-list-table.php:375
+#. translators: %s: count
+msgid "Published <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:383
+#: includes/admin/class-wpforms-list-table.php:384
+#. translators: %s: count
+msgid "Draft <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:392
+#: includes/admin/class-wpforms-list-table.php:393
+#. translators: %s: count
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:426
+msgid "Delete permanently"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:430
+msgid "Move to trash"
+msgstr ""
+
+#: includes/admin/class-wpforms-list-table.php:442
+msgid "Empty trash"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:142
+msgid "View Entry"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:143
+msgid "Back to All Entries"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:152
+msgid "%s : Entry #%s"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:162
+msgid "This entry does not have any fields."
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:186
+msgid "Location"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:196
+msgid "Field ID"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:227
+msgid "Empty"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:244
+msgid "Entry Details"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:250
+msgid "Entry ID:"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:256
+msgid "Submitted:"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:257
+msgid "M j, Y @ g:ia"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:264
+msgid "User:"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:283
+msgid "User IP:"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:291
+msgid "Status:"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:292
+msgid "Completed"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:301
+msgid "Move To Trash"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:347
+msgid "Entry ID"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:363
+msgid "IP Address"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:364
+msgid "User Device"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:365
+msgid "Date Created"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:521
+msgid "Disable Geolocation"
+msgstr ""
+
+#: includes/admin/functions-wpfe-admin.php:523
+msgid ""
+"Check this if you would like to disable storing geolocation data of the "
+"users."
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:54
+msgid ""
+"Would you care to let me know the deactivation reason so that I can improve "
+"it for you?"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:61
+msgid "Skip and deactivate"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:135
+msgid "You can customize the email stylings from %s."
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:144
+msgid "Sending email from:"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:153
+msgid "Sending email to:"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:163
+msgid "Email Subject:"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:167
+msgid "Form Entries"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:174
+msgid "Email Message:"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:187
+msgid "smart tag will send the entries data of the respective user."
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:188
+msgid "Use semi-colon (;) to send emails to multiple addresses."
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:222
+msgid "Empty receiver address!"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:230
+msgid "Invalid receiver address!"
+msgstr ""
+
+#: includes/class-entries-for-wpforms-ajax.php:238
+msgid "Invalid Form!"
+msgstr ""
+
+#: includes/class-entries-for-wpforms.php:48
+#: includes/class-entries-for-wpforms.php:57
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-entries-for-wpforms.php:254
+msgid "Please install WPForms plugin to use Entries For WPForms."
+msgstr ""
+
+#: includes/functions-wpfe-core.php:45
+#. translators: %s: Fancy Fields For WPForms  plugin link
+msgid "Thank you for using Entries For WPForms! %s plugin is recommended!"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:45
+msgid "Fancy Fields For WPForms Including File Upload"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:69
+#. translators: $1$s - Entries For WPForms plugin name; $2$s - WP.org review
+#. link; $3$s - WP.org review link.
+msgid ""
+"Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" "
+"target=\"_blank\" rel=\"noopener\">WordPress.org</a> to help us spread the "
+"word. Thank you!"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:133
+msgid "Whoopee! 😀"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:137
+msgid "Sure, I'd love to!"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:138
+msgid "I already did!"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:139
+msgid "Never show again"
+msgstr ""
+
+#: includes/functions-wpfe-core.php:267
+msgid "No form ID was found."
+msgstr ""
+
+#: includes/functions-wpfe-core.php:274
+msgid "Could not create an entry"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Store Form Entries From WPForms Lite Plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sanjeev Aryal"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sanjeebaryal.com.np"
+msgstr ""

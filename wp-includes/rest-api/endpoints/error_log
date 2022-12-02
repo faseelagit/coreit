@@ -1,0 +1,12 @@
+[30-Nov-2022 15:11:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/coreiion/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[30-Nov-2022 15:11:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/coreiion/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[30-Nov-2022 15:12:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home3/coreiion/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17

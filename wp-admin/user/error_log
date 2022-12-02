@@ -1,0 +1,4 @@
+[30-Nov-2022 15:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/coreiion/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-admin/user/menu.php on line 10

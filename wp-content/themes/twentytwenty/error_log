@@ -1,0 +1,4 @@
+[29-Jun-2022 05:13:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/coreiion/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-content/themes/twentytwenty/index.php on line 17

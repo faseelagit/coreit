@@ -1,0 +1,38 @@
+[28-Jun-2022 09:59:14 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 09:59:14 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 09:59:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 09:59:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 09:59:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[18-Sep-2022 07:38:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home3/coreiion/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-includes/template-loader.php on line 7
+[22-Sep-2022 09:26:11 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[22-Sep-2022 09:26:11 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[22-Sep-2022 09:26:11 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[22-Sep-2022 09:26:11 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[22-Sep-2022 09:26:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[30-Sep-2022 22:07:51 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[30-Sep-2022 22:07:51 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[30-Sep-2022 22:07:51 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[30-Sep-2022 22:07:51 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[30-Sep-2022 22:07:51 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[04-Oct-2022 11:43:17 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[04-Oct-2022 11:43:17 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[04-Oct-2022 11:43:17 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[04-Oct-2022 11:43:17 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[04-Oct-2022 11:43:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[14-Oct-2022 04:15:54 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[14-Oct-2022 04:15:54 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[14-Oct-2022 04:15:54 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[14-Oct-2022 04:15:54 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[14-Oct-2022 04:15:54 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/coreiion/public_html/wp-includes/functions.php on line 8
+[30-Nov-2022 15:10:14 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/compat.php on line 342
+[30-Nov-2022 15:10:14 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/coreiion/public_html/wp-includes/compat.php on line 342
+[30-Nov-2022 15:10:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/compat.php on line 342
+[30-Nov-2022 15:10:14 America/Chicago] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home3/coreiion/public_html/wp-includes/compat.php on line 342
+[30-Nov-2022 15:10:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/coreiion/public_html/wp-includes/compat.php on line 342
+[30-Nov-2022 15:12:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home3/coreiion/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coreiion/public_html/wp-includes/class.wp-dependencies.php on line 11
